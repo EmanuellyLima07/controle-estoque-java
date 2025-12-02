@@ -56,5 +56,6 @@ git clone https://github.com/EmanuellyLima07/controle-estoque-java
 
 
 Autora:
-Emanuelly Araújo
+  Emanuelly Araújo
+
 Projeto acadêmico desenvolvido para a disciplina de Programação Orientada a Objetos.
