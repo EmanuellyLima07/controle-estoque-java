@@ -8,7 +8,7 @@ public class Conexao {
 
     private static final String URL = "jdbc:mysql://localhost:3306/controle_estoque";
     private static final String USER = "root";
-    private static final String PASSWORD = "JO3-16nvBible";
+    private static final String PASSWORD = "";
 
     public static Connection getConnection() {
         try {
